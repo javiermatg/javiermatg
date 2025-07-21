@@ -1,5 +1,10 @@
 ## Hi there 👋 My name is Javier Matías, I'm currently studying Science and Systems Engineering at University of San Carlos of Guatemala. 
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javiermatg&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiermatg&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 <!--
 **javiermatg/javiermatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
