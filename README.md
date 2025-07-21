@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Javier Matías, I'm currently studying Science and Systems Engineering at University of San Carlos of Guatemala. 
 
 <!--
 **javiermatg/javiermatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
